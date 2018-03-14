@@ -6,12 +6,17 @@ The input_data class download the dataset containing images and labels  and spli
   
   
 Use the tensorboard by writing following line in your terminal
-tensorboard --logdir= <"FileLocation">
-tensorboard will display the defined scalars, graphs, distribution, histogram like the following images
+Tensorboard --logdir= <"FileLocation">
+Tensorboard will display the defined scalars, graphs, distribution, histogram like the following images  
 
-![Screenshot](Distribution.PNG)
+![Screenshot](cost_function.PNG)  
+
+![Screenshot](graph.PNG)  
+
+![Screenshot](Distribution.PNG)  
+
+![Screenshot](Histograms.PNG)
 
 
-
-Source Inspiration:
-Siraj Raval
+### Source Inspiration:
+#### Siraj Raval
