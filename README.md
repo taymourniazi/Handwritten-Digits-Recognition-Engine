@@ -9,7 +9,7 @@ Use the tensorboard by writing following line in your terminal
 tensorboard --logdir= <"FileLocation">
 tensorboard will display the defined scalars, graphs, distribution, histogram like the following images
 
-![Screenshot](cost_function (tensorboard).PNG)
+![Screenshot](Distribution.PNG)
 
 
 
